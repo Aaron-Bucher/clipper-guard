@@ -23,10 +23,10 @@ Both scripts allow you to parametrize and customize the clipper guard geometry b
 ## 📂 Repository Structure
 ```
 📦 clipper-guards
- ┣ 📄 Philips_Series5000.gh
- ┣ 📄 Panasonic_ER-GB62.gh
+ ┣ 📄 README.md
  ┣ 📄 LICENSE
- ┗ 📄 README.md
+ ┣ 📄 Philips_Series5000.gh
+ ┗ 📄 Panasonic_ER-GB62.gh
 ```
 
 ---
