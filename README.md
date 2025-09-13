@@ -36,7 +36,7 @@ Both scripts allow you to parametrize and customize the clipper guard geometry b
 
 ## 📖 Documentation
 More details about the **design process and results** are available in the [`docs/`](docs/) folder:  
-- [design process and results.pdf](docs/design process and results.pdf) – step-by-step overview with images and results   
+- [design process and results.pdf](docs/design-process-and-results.pdf) – step-by-step overview with images and results   
 
 ---
 
